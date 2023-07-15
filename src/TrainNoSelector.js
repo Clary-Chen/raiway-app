@@ -10,7 +10,7 @@ function TrainNoSelector() {
       <div>
         {/* 輸入車次 */}
         <section>
-          <label>車次:</label>
+          <label>車次:1</label>
           <input
             type='text'
             placeholder='1137'
