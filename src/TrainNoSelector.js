@@ -18,7 +18,7 @@ function TrainNoSelector() {
             onChange={(e) => setTrainNo(e.target.value)}
           />
           {/* 查詢按鈕 */}
-          <button onClick={() => setIsSending(true)}>查詢 A</button>
+          <button onClick={() => setIsSending(true)}>查詢 C</button>
         </section>
 
         {/* 車次資料 */}
