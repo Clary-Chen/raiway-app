@@ -10,7 +10,7 @@ function TrainNoSelector() {
       <div>
         {/* 輸入車次 */}
         <section>
-          <label>車次:</label>
+          <label>車次:1</label>
           <input
             type='text'
             placeholder='1137'
@@ -18,7 +18,7 @@ function TrainNoSelector() {
             onChange={(e) => setTrainNo(e.target.value)}
           />
           {/* 查詢按鈕 */}
-          <button onClick={() => setIsSending(true)}>查詢B</button>
+          <button onClick={() => setIsSending(true)}>查詢5</button>
         </section>
 
         {/* 車次資料 */}
